@@ -1,5 +1,5 @@
 # ColorPop
-*Unity5.6.6f2 64bit*
+*Unity5.6.6f2 64bit / Google Play Game Service / Firebase Cloud Messaging*
 
 Unity Package for ColorPop Game(v2.22)
 
