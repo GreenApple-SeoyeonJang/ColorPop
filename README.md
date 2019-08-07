@@ -1,5 +1,6 @@
 # ColorPop
-(Unity5.6.6f2 64bit)
+*Unity5.6.6f2 64bit*
+
 Unity Package for ColorPop Game(v2.22)
 
 
