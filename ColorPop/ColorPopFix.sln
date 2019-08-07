@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPopFix", "Assembly-CSharp.csproj", "{46C32531-1F3F-8F2C-57B9-46E90B4C3CA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPopFix", "Assembly-CSharp-Editor.csproj", "{9130C49B-AC02-AE6A-0E2E-A4FA8FD1D1EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46C32531-1F3F-8F2C-57B9-46E90B4C3CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C32531-1F3F-8F2C-57B9-46E90B4C3CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C32531-1F3F-8F2C-57B9-46E90B4C3CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C32531-1F3F-8F2C-57B9-46E90B4C3CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9130C49B-AC02-AE6A-0E2E-A4FA8FD1D1EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9130C49B-AC02-AE6A-0E2E-A4FA8FD1D1EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9130C49B-AC02-AE6A-0E2E-A4FA8FD1D1EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9130C49B-AC02-AE6A-0E2E-A4FA8FD1D1EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

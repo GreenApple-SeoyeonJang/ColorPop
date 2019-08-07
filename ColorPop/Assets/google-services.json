@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "704043238867",
+    "firebase_url": "https://colorpop-3186758.firebaseio.com",
+    "project_id": "colorpop-3186758",
+    "storage_bucket": "colorpop-3186758.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704043238867:android:3ed3440a86d2e9f0",
+        "android_client_info": {
+          "package_name": "com.GreenApple.ColorPop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704043238867-82bs4ldffm48hmuhf6rvr59pqiedhpb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfcEUFjTmLzF2ZfGcEmuGbTronaGnVzLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
