@@ -4,6 +4,8 @@
 Unity Package for ColorPop Game(v2.22)
 
 
+Color Mix Speed Game
+
 Google Play Store Download Link ↓
 
 https://play.google.com/store/apps/details?id=com.GreenApple.ColorPop
