@@ -1,7 +1,5 @@
 # ColorPop
-*Unity5.6.6f2 64bit / Google Play Game Service / Firebase Cloud Messaging*
-
-버전 업그레이드 진행 중 (Unity 5.6.6f2 ->  Unity 2020.3.13f1)
+*Unity 2020.3.13f1 / Google Play Game Service / Firebase Cloud Messaging*
 
 Unity Package for ColorPop Game(v2.22)_Android
 
