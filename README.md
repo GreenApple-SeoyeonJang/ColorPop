@@ -1,5 +1,5 @@
 # ColorPop
-*Unity 2020.3.13f1 / Google Play Game Service / Firebase Cloud Messaging*
+*Unity 2020.3.13f1 / Google Play Game Service 0.10.12 / Firebase Cloud Messaging*
 
 Unity Package for ColorPop Game(v2.22)_Android
 
